@@ -50,6 +50,15 @@
 
 ---
 
+---
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=athasyah&theme=onedark&row=2&column=4" />
+</p>
+
+---
+
 ## 📬 Connect with Me
 
 <p align="center">
