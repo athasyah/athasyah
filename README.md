@@ -1,75 +1,66 @@
-<h1 align="center">Hi there! I'm Athasyah 👋</h1>
+<!-- Profil Header -->
+<h1 align="center">Hi there 👋, I'm Athasyah</h1>
+<h3 align="center">A passionate Laravel Backend Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+  <img src="https://komarev.com/ghpvc/?username=athasyah&label=Profile%20views&color=0e75b6&style=flat" alt="athasyah" />
 </p>
-
----
-
-## 🧑‍💻 Tentang Saya
-
-Saya seorang **Laravel Backend Developer** yang fokus pada pembuatan aplikasi web yang rapi, efisien, dan scalable.  
-Saya senang membuat RESTful API, merancang struktur database, serta memisahkan logika bisnis agar mudah dikembangkan dalam jangka panjang.
-
-🔧 Tools and concepts I'm confident with:
-
-- 🔄 RESTful API & Service Layer  
-- 🛠️ Repository Pattern & Clean Architecture  
-- 📥 Excel Import/Export (Maatwebsite)  
-- 🗃️ Multi-warehouse stock management  
-- 📤 Dynamic PDF & Report Generator  
-- 🔐 Role-based Access Control  
-- ⚙️ GitHub Actions automation  
-
----
-
-## 🚧 Proyek Yang Pernah Saya Bangun
-
-📌 **Sistem POS & Stok**  
-> Gudang dan outlet dengan manajemen stok real-time, termasuk fitur audit & permintaan stok silang.
-
-📌 **Sistem LMS (Learning Management System)**  
-> Sistem pengajaran digital seperti gabungan Google Classroom + Moodle, dengan fitur pengumpulan tugas, rolling siswa, integrasi kalender, dan dashboard statistik.
-
-📌 **Sistem Pengolahan Produk**  
-> Produk memiliki banyak varian (matrix), tiap varian memiliki gambar, kapasitas, stok, dan harga berbeda.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-informational?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,docker,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 Statistik Kontribusi
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athasyah&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athasyah&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=athasyah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athasyah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+---
+
+## 🚀 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athasyah&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🧱 Visualisasi 3D Kontribusi
+## 📆 Contribution Graph (Snake Animation)
 
 <p align="center">
-  <img src="profile-gitblock.svg" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/athasyah/athasyah/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Hubungi Saya
+## 📈 Contribution Activity (Dynamic Chart)
 
-- 💌 Email: athasyahaddin24@gmail.com
-- 🧑‍💻 GitHub: [github.com/athasyah](https://github.com/athasyah)
+[![Athasyah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=athasyah&bg_color=1a1b27&color=9f9f9f&line=38bdf8&point=40c4ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧩 Badges
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Thank+you+for+visiting+my+profile!;Let's+build+awesome+things+with+Laravel!" />
+  <img src="https://img.shields.io/badge/Laravel-Backend-red?style=flat-square&logo=laravel" />
+  <img src="https://img.shields.io/badge/PHP-Expert-777BB4?style=flat-square&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-Data-yellow?style=flat-square&logo=mysql" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/athasyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-gmail-red?style=flat-square&logo=gmail" /></a>
 </p>
