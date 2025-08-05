@@ -16,12 +16,13 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.6.1
         with:
           user_name: athasyah  
-          theme: "GitHub"     
+          theme: "GitHub"
+          output_file: profile-gitblock.svg # ⬅️ output file yang kamu pakai di README
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib
+          git add profile-gitblock.svg
           git commit -m "Generate 3D GitHub profile contribution"
           git push
