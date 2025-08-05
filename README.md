@@ -41,14 +41,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/athasyah/athasyah/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
