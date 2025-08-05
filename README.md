@@ -34,14 +34,6 @@
 
 ---
 
-## 📆 Contribution Graph (Snake Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/athasyah/athasyah/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📈 Contribution Activity (Dynamic Chart)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athasyah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
