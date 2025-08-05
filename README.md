@@ -44,7 +44,7 @@
 
 ## 📈 Contribution Activity (Dynamic Chart)
 
-[![Athasyah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=athasyah&bg_color=1a1b27&color=9f9f9f&line=38bdf8&point=40c4ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athasyah&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -61,6 +61,6 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/athasyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-gmail-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/athasyah-addin-015052370/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="athasyahaddin24@email.com"><img src="https://img.shields.io/badge/Email-gmail-red?style=flat-square&logo=gmail" /></a>
 </p>
