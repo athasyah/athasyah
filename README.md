@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,redis,docker,git,github,linux,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github,vscode&perline=8" />
 </p>
 
 <p align="center">
@@ -28,14 +28,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=athasyah&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athasyah&theme=react-dark&hide_border=true&bg_color=00000000&area=true&line=false" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Pixel Character"/>
 </p>
 
 <p align="center">
