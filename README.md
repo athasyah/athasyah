@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,git,github,react,vscode&perline=8" />
 </p>
 
 <p align="center">
