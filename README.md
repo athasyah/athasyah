@@ -33,9 +33,6 @@
   <a href="https://www.linkedin.com/in/athasyah-addin-satriya-abdi-015052370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=fff" />
   </a>
-  <a href="mailto:athasyahaddin24@email.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=fff" />
-  </a>
 </p>
 
 <p align="center">
