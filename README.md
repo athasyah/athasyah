@@ -22,11 +22,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=athasyah&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athasyah&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=athasyah&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
